@@ -1,2 +1,7 @@
 node_modules
 dist
+logs
+
+.env.local
+.env.development
+.env.production
