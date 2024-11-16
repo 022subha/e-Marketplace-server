@@ -1,0 +1,11 @@
+{
+  "name": "e-marketplace-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mjPRO",
+  "license": "ISC",
+  "description": ""
+}
